@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-around;
     flex-direction: column-reverse;
+    align-items: center;
 }
 
 .settings {
@@ -15,7 +16,7 @@
 }
 
 .banner {
-    width: 55%;
+    width: 45%;
     align-self: center;
     padding: 8px;
 
